@@ -1,13 +1,17 @@
 # Aimbot
 ```Aimbot Arduino ```
 
-Install Những Thư Viện Dưới Đây 
+# Lưu Ý 
 
 - install python - [Python](https://www.python.org/downloads/)
 
 -Sofware Arduino [Arduino](https://www.arduino.cc/)
 
-Lưu Ý : Mạch Arduino Leonardo [Không Dùng Mạch Cơ Bản]
+• Mạch Arduino Leonardo [Không Dùng Mạch Cơ Bản]
+
+
+
+```Install Những Thư Viện Dưới Đây ```
 
 • pip install opencv-python
 
