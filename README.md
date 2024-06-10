@@ -1,7 +1,8 @@
 # Aimbot
-```Aimbot Arduino ```
 
-# Lưu Ý 
+```Some```
+
+Lưu Ý 
 
 - install python - [Python](https://www.python.org/downloads/)
 
