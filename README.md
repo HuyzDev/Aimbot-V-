@@ -5,9 +5,9 @@ Install Những Thư Viện Dưới Đây
 
 - install python - [Python](https://www.python.org/downloads/)
 
--[Arduino](https://www.arduino.cc/)
+-Sofware Arduino [Arduino](https://www.arduino.cc/)
 
-
+Lưu Ý : Mạch Arduino Leonardo [Không DÙng Mạch Cơ Bản]
 
 • pip install opencv-python
 
