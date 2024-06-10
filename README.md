@@ -19,5 +19,3 @@ Lưu Ý : Mạch Arduino Leonardo [Không Dùng Mạch Cơ Bản]
 
 • pip install pyserial
 
-
-<p>Đây là <span style="color:red">Soure Code Là Source Mở Không Ảnh Hưởng Tới Window Cũng Như Các Folder Và Không Dính Virus !</span> của tôi.</p>
