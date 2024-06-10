@@ -10,6 +10,5 @@
 • pip install pywin32
 • pip install pyserial
 
-# Aimbot 
+<p>Đây là <span style="color:red">Soure Code Là Source Mở Không Ảnh Hưởng Tới Window Cũng Như Các Folder Và Không Dính Virus !</span> của tôi.</p>
 
-Đây là <span style="color:red">Soure Code Là Source Mở Không Ảnh Hướng Tởi Window Cũng Như Các Folder Và Không Dính Virus !</span> của tôi.
