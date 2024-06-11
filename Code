@@ -24,12 +24,14 @@ def clear_console():
 
 def display_welcome_message():
     """Display the welcome message."""
-    print("  ____         _    _ ")
-    print(" |  _ \\      | |  (_) ")
-    print(" | |_) | __ _| | ___ ")
-    print(" |  _ < / _` | |/ / | ")
-    print(" | |_) | (_| |   <| | ")
-    print(" |____/ \\__,_|_|\\_\\_| ")
+
+    print(" :::::::.    :::.         ...           ::   .:      ...       :::.   :::.    :::.  .,-:::::/  ")
+    print("  ;;;'';;'   ;;`;;     .;;;;;;;.       ,;;   ;;,  .;;;;;;;.    ;;`;;  `;;;;,  `;;;,;;-'````'   ")
+    print("  [[[__[[\. ,[[ '[[,  ,[[     \[[,    ,[[[,,,[[[ ,[[     \[[, ,[[ '[[,  [[[[[. '[[[[[   [[[[[[/ ")
+    print("  $$""""Y$$c$$$cc$$$c $$$,     $$$    "$$$"""$$$ $$$,     $$$c$$$cc$$$c $$$ "Y$c$$"$$c.    "$$ ")
+    print(" _88o,,od8P 888   888,"888,_ _,88P     888   "88o"888,_ _,88P 888   888,888    Y88 `Y8bo,,,o88o ")
+    print(" ""YUMMMP"  YMM   ""`   "YMMMMMP"      MMM    YMM  "YMMMMMP"  YMM   ""` MMM     YM   `'YMUP"YMM ")
+
 
 def get_fov():
     """Prompt the user to input the FOV and return it as an integer."""
