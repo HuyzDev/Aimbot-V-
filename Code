@@ -26,14 +26,14 @@ def clear_console():
 def display_welcome_message():
     """Display the welcome message."""
 
-print("░▒▓████████▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░      ░▒▓███████▓▒░  ")
-print("   ░▒▓█▓▒░   ░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░             ░▒▓█▓▒░ ")
-print("   ░▒▓█▓▒░   ░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░             ░▒▓█▓▒░ ")
-print("   ░▒▓█▓▒░   ░▒▓████████▓▒░▒▓█▓▒░░▒▓█▓▒░      ░▒▓███████▓▒░  ")
-print("   ░▒▓█▓▒░   ░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░             ░▒▓█▓▒░ ")
-print("   ░▒▓█▓▒░   ░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░             ░▒▓█▓▒░ ")
-print("   ░▒▓█▓▒░   ░▒▓█▓▒░░▒▓█▓▒░░▒▓██████▓▒░       ░▒▓███████▓▒░  ")
-                                                             
+def display_welcome_message():
+    """Display the welcome message."""
+    print(" _____ _               _______ ")
+    print("|_   _| |             / /____ |")
+    print("  | | | |__  _   _   / /    / /")
+    print("  | | | '_ \| | | | < <     \ \ ")
+    print("  | | | | | | |_| |  \ \.___/ / ")
+    print("  \_/ |_| |_|\__,_|   \_\____/  ")        
                                                         
 def get_fov():
     """Prompt the user to input the FOV and return it as an integer."""
