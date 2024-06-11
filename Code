@@ -24,12 +24,10 @@ def clear_console():
 
 def display_welcome_message():
     """Display the welcome message."""
-
 print("                 ___            o          ,---------------------------.             ")
 print("    '*`          .|||.        ` /_\ '       | Miss Thu <3! |   ...      ")
 print("  (o o)         (o o)       - (o o) -      `--------------------------(_  (o -)      ")
 print("ooO--(_)--Ooo-ooO--(_)--Ooo-ooO--(_)--Ooo-------------------------------ooO--(_)--Ooo- ")
-
 
 def get_fov():
     """Prompt the user to input the FOV and return it as an integer."""
