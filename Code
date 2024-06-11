@@ -25,8 +25,8 @@ def clear_console():
 def display_welcome_message():
     """Display the welcome message."""
 
-                   ___            o          ,---------------------------.             ")
-print("    '*`          .|||.        ` /_\ '       | Miss Thu <3! |   ...      ") 
+print("                 ___            o          ,---------------------------.             ")
+print("    '*`          .|||.        ` /_\ '       | Miss Thu <3! |   ...      ")
 print("  (o o)         (o o)       - (o o) -      `--------------------------(_  (o -)      ")
 print("ooO--(_)--Ooo-ooO--(_)--Ooo-ooO--(_)--Ooo-------------------------------ooO--(_)--Ooo- ")
 
